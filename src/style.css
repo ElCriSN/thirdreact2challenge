@@ -1,0 +1,16 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+.active {
+  color: red;
+  text-decoration: none;
+  margin-left: 20px;
+}
+
+.pasive {
+  color: white;
+  text-decoration: none;
+  margin-left: 20px;
+}
